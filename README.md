@@ -3,7 +3,9 @@
 ## Project-type: DataBase and API Design follow Module Pattern
 
 ## Live-link:https://course-review-auth-pi.vercel.app
-## API-documentation-link:  https://documenter.getpostman.com/view/30665703/2s9YkuZJkv#676163a1-61e7-4bbe-85d7-895be07188c1
+
+## API-documentation-link: https://documenter.getpostman.com/view/30665703/2s9YkuZJkv#676163a1-61e7-4bbe-85d7-895be07188c1
+
 ## Technology use
 
 - Node js
@@ -197,8 +199,6 @@ Query Parameters:
 - **Endpoint:** `/api/course/best`
 - **Method:** `GET`
 - The response includes details about the course, its average rating, and the total number of reviews
-
-## Requirements link:https://github.com/Apollo-Level2-Web-Dev/L2-B2-Assignment-4
 
 ## Getting Started
 
